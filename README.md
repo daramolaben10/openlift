@@ -109,6 +109,7 @@ A runnable example is available at:
 - [Assumptions](docs/assumptions.md)
 - [Theory](docs/theory.md)
 - [Beta onboarding](docs/beta_onboarding.md)
+- [Product roadmap](docs/roadmap.md)
 
 ## Project Status
 
